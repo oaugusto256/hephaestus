@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## What is it?
 
-Hephaestus is a web pixel art tool made with ReactJS.
+:hammer: Hephaestus is web application to create, animate and download pixel art made with ReactJS.
 
 ## Development
 
