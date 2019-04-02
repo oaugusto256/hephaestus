@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Hephaestus from './Hephaestus';
+import Hephaestus from './screens/Hephaestus';
 
 ReactDOM.render(<Hephaestus />, document.getElementById('root'));
